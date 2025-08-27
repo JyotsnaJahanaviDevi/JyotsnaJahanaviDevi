@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jyotsna</h1>
-<h3 align="center">A passionate developer from India</h3>
+<h3 align="center">AI/ML & Data Science enthusiast building intelligent systems and actionable insights through machine learning, deep learning, and data-driven visualizations. Passionate about solving real-world problems with innovative AI solutions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jyotsnajahanavidevi&label=Profile%20views&color=0e75b6&style=flat" alt="jyotsnajahanavidevi" /> </p>
 
